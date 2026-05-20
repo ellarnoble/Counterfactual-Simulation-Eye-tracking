@@ -8,7 +8,7 @@ This repository contains the following files:
 - script.R
 
 This contains all code for reproducing the study's results. This includes a replication of the Gerstenberg et al. (2017) ANOVA model with post-hoc Tukey tests, an AR(1) logistic mixed effects model, multiple independent samples t-tests and several ggplots.
-- sessioninfo.txt:
+- sessionInfo.txt:
 
 This documents the R session information at time of analysis, including R version and all package versions used, to facilitate reproducibility.
 
